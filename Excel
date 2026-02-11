@@ -1,0 +1,17 @@
+# Employee Excel Formulas Project
+
+This project contains an Employee Salary Excel sheet with formulas.
+
+## Features
+- Bonus Amount calculation
+- Total Salary calculation
+- Grade based on performance
+- SUM, AVERAGE, MAX, MIN
+- COUNTIF, SUMIF
+- VLOOKUP (optional)
+
+## Tools Used
+- Microsoft Excel
+
+## Author
+Sameera Sulthana Shaik
